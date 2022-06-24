@@ -1,0 +1,20 @@
+.header {
+    background: #121214;
+}
+
+.sentence {
+    color: #fff;
+}
+
+.second {
+    color: gray;
+    margin-left: .5rem;
+}
+
+.headingBox {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 1rem 3rem;
+    justify-content: center;
+}

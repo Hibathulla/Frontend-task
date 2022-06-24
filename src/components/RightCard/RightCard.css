@@ -1,0 +1,39 @@
+.rightCard {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: .9rem .8rem;
+}
+
+.rightCard:not(:last-child) {
+    margin-bottom: 1.5rem;
+}
+
+.rightDetails {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.rightDetails p {
+    color:#81D8F7;
+    font-size: .8rem;
+}
+
+.outline {
+    border: 1px solid green;
+    border-radius: 5px;
+    color: #00B37E;
+    padding: .4rem;
+}
+
+.outline p {
+    color: #fff;
+    font-size: .7rem;
+}
+
+.lastPara {
+    color: #fff;
+    text-align: center;
+}

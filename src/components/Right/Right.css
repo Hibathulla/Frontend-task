@@ -1,0 +1,20 @@
+.right {
+    flex: 1;
+    padding: 1rem 1.5rem;
+    border-top: 1px solid gray;
+}
+
+.rightHeading {
+    margin-bottom: 2rem;
+}
+
+.rightHeading h2 {
+    color: white;
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 480px) {
+    .right {
+        display: none;
+    }
+}
